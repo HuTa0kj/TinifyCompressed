@@ -2,7 +2,7 @@
 
 使用 tinify 压缩图片或图片文件夹
 
-首先获取一个 API KEY，https://tinypng.com/developers。
+首先获取一个 API KEY，https://tinypng.com/developers
 
 输入你的 Email 和 ID 就可以了，从邮箱内的确认邮件获取 API KEY。
 
